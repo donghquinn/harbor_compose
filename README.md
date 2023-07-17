@@ -1,0 +1,12 @@
+# Harbor Docker-compose Setting
+- Config harbor.yml
+    - url: www.example.com
+    - http port: 3000
+    - external url: https://www.example.com
+    - admin_password
+    - db_password
+    - data_volume: ABSOLUTE PATH
+- Change permission
+    - chmod +x install.sh
+- Run install script
+    - ./install.sh

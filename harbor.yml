@@ -26,7 +26,7 @@ http:
 
 # Uncomment external_url if you want to enable external proxy
 # And when it enabled the hostname will no longer used
-external_url: https://registry.andongh.com
+external_url: <EXTERNAL_URL>
 
 # The initial password of Harbor admin
 # It only works in first time to install harbor
